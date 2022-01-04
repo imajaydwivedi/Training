@@ -8,9 +8,10 @@
 3. Motherboard (Chipset) - **[Msi MEG X570 Unify (Wi-Fi) - ATX - 3x Gen4 M.2 - Dual Memory Channel - 1 Type C USB](https://www.msi.com/Motherboard/MEG-X570-UNIFY)**
    + [mdcomputers.in @ 31,900](https://mdcomputers.in/msi-meg-x570-unify.html)
    + [amazon.in @ 31,652](https://www.amazon.in/MSI-Gaming-Motherboard-Shield-Xpnader-Z/dp/B07YWF1G9S)
-4. RAM (Memory) - **4 * 32GB - 3200MHz - CL16**
-   + [HyperX Fury 32GB DDR4 3200MHz Black @ 13780](https://mdcomputers.in/hyperx-fury-32gb-ddr4-3200mhz-black-hx432c16fb3-32.html)
-   + [KINGSTON HYPERX 3200MHZ 32GB DDR4 DESKTOP RAM @ 11,250](https://www.vishalperipherals.in/gaming-devices/hyperx-fury-hx432c16fb3-32-32gb-ddr4-3200mhz)
+4. RAM (Memory) - **4 * 32GB** - [RAM Advisor Link](https://www.crucial.com/store/advisor)
+   + [HyperX Fury 32GB DDR4 3200MHz Black CL16 @ 13,780](https://mdcomputers.in/hyperx-fury-32gb-ddr4-3200mhz-black-hx432c16fb3-32.html)
+   + [KINGSTON HYPERX 3200MHZ 32GB CL16 @ 11,250](https://www.vishalperipherals.in/gaming-devices/hyperx-fury-hx432c16fb3-32-32gb-ddr4-3200mhz)
+   + [CORSAIR VENGEANCE LPX 64GB (32GBX2) DDR4 DRAM 3600MHZ C18 @ 12,500](https://www.vedantcomputers.com/corsair-vengeance-lpx-64gb-32gbx2-ddr4-dram-3600mhz-c18-memory-kit-black?gclid=Cj0KCQiA_c-OBhDFARIsAIFg3exyABy-4Cn93JoqwFUA6vxaQw3PjNWaNsivPDidNR2w__GRpOiBpyUaAvIPEALw_wcB)
 5. GPU (Graphics Card) - **[Zotac GTX 1650 OC 4GB GDDR6](https://www.zotac.com/us/product/graphics_card/zotac-gaming-geforce-gtx-1650-oc-gddr6)**
    + [mdcomputers.in @ 24,699](https://mdcomputers.in/zotac-gtx-1650-oc-4gb-gddr6-zt-t16520f-10l.html)
    + [vedantcomputers.com @ 23,900](https://www.vedantcomputers.com/zotac-gaming-geforce-gtx-1650-oc-4gb-gddr6)
