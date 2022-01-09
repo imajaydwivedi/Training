@@ -18,7 +18,7 @@
 6. SSD (M.2) - **4 TB - Gen 4**
    + [Addlink S92 4TB M.2 NVMe Gen4 Internal SSD - 4.9 Gbps (AD4TBS92M2P) @ 55,700](https://mdcomputers.in/addlink-s92-4tb-m.2-nvme-gen4-ad4tbs92m2p.html)
    + [CORSAIR MP600 CORE 4TB M.2 NVME PCIE X4 GEN4 SSD - 4.9 Gbps @ 55,000](https://www.vishalperipherals.in/corsair-mp600-core-4tb-m-2-nvme-pcie-x4-gen4-ssd)
-   + [Sabrent 4TB Rocket 4 PLUS NVMe 4.0 Gen4 PCIe M.2 Internal SSD SB-RKT4P-4TB @ 75,500](https://www.primeabgb.com/online-price-reviews-india/sabrent-4tb-rocket-4-plus-nvme-4-0-gen4-pcie-m-2-internal-ssd-sb-rkt4p-4tb/)
+   + [Sabrent 4TB Rocket 4 PLUS - 7.1 Gbps (SB-RKT4P-4TB) @ 75,500](https://www.primeabgb.com/online-price-reviews-india/sabrent-4tb-rocket-4-plus-nvme-4-0-gen4-pcie-m-2-internal-ssd-sb-rkt4p-4tb/)
 8. HDD (SATA) - **8 TB - 7200 RPM**
    + [Western Digital Ultrastar He8 8TB 7200 RPM Internal Hard Drive @ 19,199](https://mdcomputers.in/western-digital-ultrastar-he8-huh728080ale604.html?search=8tb)
    + [SEAGATE IRONWOLF 8 TB NAS INTERNAL HARD DRIVE HDD (ST8000VN004) @ 19,999](https://www.amazon.in/dp/B07SZVVBBK/)
