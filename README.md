@@ -2,6 +2,7 @@
 1. Processor - **Amd Ryzen 9 5950X Processor - 16C/32T - 72MB Cache - 3.4 GHz Base - 128 GB Max M/r**
    + [mdcomputers.in @ 62,970](https://mdcomputers.in/amd-ryzen-9-5950x-100-100000059wof.html)
    + [theitwares.com @ 60,950](https://www.theitwares.com/amd-ryzen-9-5950x-16-core-3-4-ghz-socket-am4-105w-desktop-processor-100-100000059wof.html?gclid=Cj0KCQiAt8WOBhDbARIsANQLp96wXFHZunmEg1EsSXCCXYrRLojbyX_l9tR5xUUkPiPRk49LYt94bH8aAvSbEALw_wcB)
+   + [elitehubs.com @ 59,500](https://elitehubs.com/amd-ryzen-9-5950x-processor/)
 2. CPU Cooling Solution - **CoolerMaster MasterAir MA624 Stealth CPU Cooler - Two 140mm & one 120mm Fans - 6 Heatpipes**
    + [mdcomputers.in @ 8,490](https://mdcomputers.in/cooler-master-masterair-ma624-stealth-mam-d6ps-314pk-r1.html)
    + [vedantcomputers.com @ 8,325](https://www.vedantcomputers.com/index.php?route=product/product&product_id=4754&gclid=Cj0KCQiAt8WOBhDbARIsANQLp94w0YlUM5CHbaoY0U0dCTf_yaPTfKDV0GziiEMfmz36lgl3maaRVAcaAgG0EALw_wcB)
