@@ -17,26 +17,25 @@
    + [KINGSTON HYPERX 3200MHZ 32GB CL16 @ 11,250](https://www.vishalperipherals.in/gaming-devices/hyperx-fury-hx432c16fb3-32-32gb-ddr4-3200mhz)
    + [CORSAIR VENGEANCE LPX 64GB (32GBX2) DDR4 DRAM 3600MHZ C18 @ 12,500](https://www.vedantcomputers.com/corsair-vengeance-lpx-64gb-32gbx2-ddr4-dram-3600mhz-c18-memory-kit-black?gclid=Cj0KCQiA_c-OBhDFARIsAIFg3exyABy-4Cn93JoqwFUA6vxaQw3PjNWaNsivPDidNR2w__GRpOiBpyUaAvIPEALw_wcB)
 5. GPU (Graphics Card) - **[Zotac GTX 1650 OC 4GB GDDR6](https://www.zotac.com/us/product/graphics_card/zotac-gaming-geforce-gtx-1650-oc-gddr6)**
-   + [mdcomputers.in @ 24,699](https://mdcomputers.in/zotac-gtx-1650-oc-4gb-gddr6-zt-t16520f-10l.html)
-   + [vedantcomputers.com @ 22,500](https://www.vedantcomputers.com/zotac-gaming-geforce-gtx-1650-oc-4gb-gddr6)
+   + [mdcomputers.in @ 22,369](https://mdcomputers.in/zotac-gtx-1650-oc-4gb-gddr6-zt-t16520f-10l.html)
+   + [vedantcomputers.com @ 22,300](https://www.vedantcomputers.com/zotac-gaming-geforce-gtx-1650-oc-4gb-gddr6)
 6. SSD (M.2) - **4 TB - Gen 4**
    + [Addlink S92 4TB M.2 NVMe Gen4 Internal SSD - 4.9 Gbps (AD4TBS92M2P) @ 55,700](https://mdcomputers.in/addlink-s92-4tb-m.2-nvme-gen4-ad4tbs92m2p.html)
    + [CORSAIR MP600 CORE 4TB M.2 NVME PCIE X4 GEN4 SSD - 4.9 Gbps @ 55,000](https://www.vishalperipherals.in/corsair-mp600-core-4tb-m-2-nvme-pcie-x4-gen4-ssd)
    + [Sabrent 4TB Rocket 4 PLUS - 7.1 Gbps (SB-RKT4P-4TB) @ 75,500](https://www.primeabgb.com/online-price-reviews-india/sabrent-4tb-rocket-4-plus-nvme-4-0-gen4-pcie-m-2-internal-ssd-sb-rkt4p-4tb/)
-8. HDD (SATA) - **8 TB - 7200 RPM**
-   + [Western Digital Ultrastar He8 8TB 7200 RPM Internal Hard Drive @ 19,199](https://mdcomputers.in/western-digital-ultrastar-he8-huh728080ale604.html?search=8tb)
-   + [SEAGATE IRONWOLF 8 TB NAS INTERNAL HARD DRIVE HDD (ST8000VN004) @ 19,999](https://www.amazon.in/dp/B07SZVVBBK/)
-9. Power Supply (SMPS) - **Cooler Master MWE 1250 V2 80 Plus Gold SMPS**
+7. SSD (M.2) - **2 TB - Gen 4**
+   + [CRUCIAL P2 2TB PCIE M.2 2280 SSD @ 15,000](https://www.vishalperipherals.in/crucial-p2-1tb-pcie-m-22280ss-ssd?manufacturer_id=42)
+8. Power Supply (SMPS) - **Cooler Master MWE 1250 V2 80 Plus Gold SMPS**
    + [mdcomputers.in @ 19,999](https://mdcomputers.in/cooler-master-mwe-v2-1250-watt-80-plus-gold-mpe-c501-afcag-in.html)
    + [vedantcomputers @ 19,950](https://www.vedantcomputers.com/index.php?route=product/product&product_id=4620)
-10. Cabinet - **Full Tower - 3 Included Fans**
+9. Cabinet - **Full Tower - 3 Included Fans**
     + [Phanteks ENTHOO PRO Black @ 11,099](https://mdcomputers.in/phanteks-enthoo-pro-black-ph-es614ptg-bk.html)
-12. Monitor
+10. Monitor
     + **Benq EL2870U - 4K (UHD) - 28 Inch - LED - Display Port - Built-in Speakers**
       + [mdcomputers.in @ 21,990](https://mdcomputers.in/benq-28-inch-amd-freesync-hdr-el2870u.html)
       + [amazon.in @ 21,990](https://www.amazon.in/BenQ-EL2870U-Response-Brightness-Intelligence/dp/B079HV1TDC)
     + **Benq GW2780 - 1080p (FHD) - 27 Inch - Ultra-Slim Bezel - 60 Hz - Built-in Spearkers**
       + [amazon.in @ 12,999](https://www.amazon.in/dp/B073NTCT4R?ref_=pe_3025041_270609711_E_301_dt_1&th=1)
-13. Keyboard & Mouse - **Logitech MK235 Wireless Combo**
+11. Keyboard & Mouse - **Logitech MK235 Wireless Combo**
     + [mdcomputers.in @ 1,309](https://mdcomputers.in/logitech-mk235-920-007939.html)
     + [flipkart.com @ 1,149](https://www.flipkart.com/logitech-mk235-mouse-wireless-laptop-keyboard/p/itmehsezafvbvtnv)
