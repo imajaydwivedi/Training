@@ -30,12 +30,9 @@
    + [vedantcomputers @ 19,950](https://www.vedantcomputers.com/index.php?route=product/product&product_id=4620)
 9. Cabinet - **Full Tower - 3 Included Fans**
     + [Phanteks ENTHOO PRO Black @ 11,099](https://mdcomputers.in/phanteks-enthoo-pro-black-ph-es614ptg-bk.html)
-10. Monitor
-    + **Benq EL2870U - 4K (UHD) - 28 Inch - LED - Display Port - Built-in Speakers**
-      + [mdcomputers.in @ 21,990](https://mdcomputers.in/benq-28-inch-amd-freesync-hdr-el2870u.html)
-      + [amazon.in @ 21,990](https://www.amazon.in/BenQ-EL2870U-Response-Brightness-Intelligence/dp/B079HV1TDC)
-    + **Benq GW2780 - 1080p (FHD) - 27 Inch - Ultra-Slim Bezel - 60 Hz - Built-in Spearkers**
-      + [amazon.in @ 12,999](https://www.amazon.in/dp/B073NTCT4R?ref_=pe_3025041_270609711_E_301_dt_1&th=1)
+10. Monitor - **[Benq GW2780T (27'') - 1080p - IPS Eye Care - LED - Ultra-Slim Bezel - 60 Hz - Height Adjustable - Built-in Speakers](https://www.benq.com/en-in/monitor/stylish/gw2780t/specifications.html)**
+      + [amazon.in @ 18,690](https://www.amazon.in/dp/B08D11X17Q?th=1)
+      + [mdcomputers.in @ 18,850](https://mdcomputers.in/benq-gw2780t.html)
 11. Keyboard & Mouse - **Logitech MK235 Wireless Combo**
     + [mdcomputers.in @ 1,309](https://mdcomputers.in/logitech-mk235-920-007939.html)
-    + [flipkart.com @ 1,149](https://www.flipkart.com/logitech-mk235-mouse-wireless-laptop-keyboard/p/itmehsezafvbvtnv)
+    + [flipkart.com @ 1,095](https://www.flipkart.com/logitech-mk235-mouse-keyboard-combo-full-sized-15-fn-keys-3-year-battery-life-wireless-laptop/p/itm9759b96bed65f?pid=ACCEHSEZESFHWBSD&lid=LSTACCEHSEZESFHWBSD6BL9FD&marketplace=FLIPKART&q=+Logitech+MK235+Wireless+Combo&store=6bo%2Fai3%2F3oe&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=822e5e41-28f3-4800-808c-49404d81fd2a.ACCEHSEZESFHWBSD.SEARCH&ppt=sp&ppn=sp&ssid=8ujrf4tynk0000001647956230966&qH=b9406919de9316d1)
