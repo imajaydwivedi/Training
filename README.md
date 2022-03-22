@@ -5,11 +5,13 @@
    + [primeabgb.com @ 57,738](https://www.primeabgb.com/online-price-reviews-india/amd-ryzen-9-5950x-desktop-processor-16-cores-32-threads-3-4ghz/)
    + [elitehubs.com @ 56,611](https://elitehubs.com/amd-ryzen-9-5950x-processor/)
 2. CPU Cooling Solution - **CoolerMaster MasterAir MA624 Stealth CPU Cooler - Two 140mm & one 120mm Fans - 6 Heatpipes**
-   + [mdcomputers.in @ 8,490](https://mdcomputers.in/cooler-master-masterair-ma624-stealth-mam-d6ps-314pk-r1.html)
+   + [mdcomputers.in @ 8,350](https://mdcomputers.in/cooler-master-masterair-ma624-stealth-mam-d6ps-314pk-r1.html)
    + [vedantcomputers.com @ 8,325](https://www.vedantcomputers.com/index.php?route=product/product&product_id=4754&gclid=Cj0KCQiAt8WOBhDbARIsANQLp94w0YlUM5CHbaoY0U0dCTf_yaPTfKDV0GziiEMfmz36lgl3maaRVAcaAgG0EALw_wcB)
+   + [vishalperipherals.in @ 8,190](https://www.vishalperipherals.in/cooler-master-masterair-ma624-stealth-cpu-cooler)
 3. Motherboard (Chipset) - **[Msi MEG X570 Unify (Wi-Fi) - ATX - 3x Gen4 M.2 - Dual Memory Channel - 1 Type C USB](https://www.msi.com/Motherboard/MEG-X570-UNIFY)**
    + [mdcomputers.in @ 31,900](https://mdcomputers.in/msi-meg-x570-unify.html)
    + [amazon.in @ 28,800](https://www.amazon.in/MSI-Gaming-Motherboard-Shield-Xpnader-Z/dp/B07YWF1G9S)
+   + [vishalperipherals.in @ 29,900](https://www.vishalperipherals.in/index.php?route=product/product&product_id=1884)
 4. RAM (Memory) - **4 * 32GB** - [RAM Advisor Link](https://www.crucial.com/store/advisor)
    + [HyperX Fury 32GB DDR4 3200MHz Black CL16 @ 12,999](https://mdcomputers.in/hyperx-fury-32gb-ddr4-3200mhz-black-hx432c16fb3-32.html)
    + [KINGSTON HYPERX 3200MHZ 32GB CL16 @ 11,250](https://www.vishalperipherals.in/gaming-devices/hyperx-fury-hx432c16fb3-32-32gb-ddr4-3200mhz)
