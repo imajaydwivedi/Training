@@ -16,6 +16,7 @@
    + [HyperX Fury 32GB DDR4 3200MHz Black CL16 @ 12,999](https://mdcomputers.in/hyperx-fury-32gb-ddr4-3200mhz-black-hx432c16fb3-32.html)
    + [KINGSTON HYPERX 3200MHZ 32GB CL16 @ 11,250](https://www.vishalperipherals.in/gaming-devices/hyperx-fury-hx432c16fb3-32-32gb-ddr4-3200mhz)
    + [CORSAIR VENGEANCE LPX 64GB (32GBX2) DDR4 DRAM 3600MHZ C18 @ 12,500](https://www.vedantcomputers.com/corsair-vengeance-lpx-64gb-32gbx2-ddr4-dram-3600mhz-c18-memory-kit-black?gclid=Cj0KCQiA_c-OBhDFARIsAIFg3exyABy-4Cn93JoqwFUA6vxaQw3PjNWaNsivPDidNR2w__GRpOiBpyUaAvIPEALw_wcB)
+   + [CORSAIR VENGEANCE LPX 64GB (32GBX2) DDR4 DRAM 3600MHZ C18 @ 13,849](https://www.primeabgb.com/online-price-reviews-india/corsair-vengeance-lpx-64gb-2-x-32gb-ddr4-dram-3600mhz-c18-memory-kit-black-cmk64gx4m2d3600c18/)
 5. GPU (Graphics Card) - **[Zotac GTX 1650 OC 4GB GDDR6](https://www.zotac.com/us/product/graphics_card/zotac-gaming-geforce-gtx-1650-oc-gddr6)**
    + [mdcomputers.in @ 22,369](https://mdcomputers.in/zotac-gtx-1650-oc-4gb-gddr6-zt-t16520f-10l.html)
    + [vedantcomputers.com @ 22,300](https://www.vedantcomputers.com/zotac-gaming-geforce-gtx-1650-oc-4gb-gddr6)
