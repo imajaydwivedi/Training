@@ -39,3 +39,23 @@
     + [flipkart.com @ 1,095](https://www.flipkart.com/logitech-mk235-mouse-keyboard-combo-full-sized-15-fn-keys-3-year-battery-life-wireless-laptop/p/itm9759b96bed65f?pid=ACCEHSEZESFHWBSD&lid=LSTACCEHSEZESFHWBSD6BL9FD&marketplace=FLIPKART&q=+Logitech+MK235+Wireless+Combo&store=6bo%2Fai3%2F3oe&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=822e5e41-28f3-4800-808c-49404d81fd2a.ACCEHSEZESFHWBSD.SEARCH&ppt=sp&ppn=sp&ssid=8ujrf4tynk0000001647956230966&qH=b9406919de9316d1)
 12. Dual Monitor Stand
     + [AmazonBasics Dual Monitor Stand - Height-Adjustable Arm Mount, Steel @ 2,999](https://www.amazon.in/AmazonBasics-Dual-Monitor-Stand-Height-Adjustable/dp/B076B3Q8JR/ref=rvi_9/262-3480713-4980021?pd_rd_w=Dg1FC&pf_rd_p=59eebe5b-59e3-4882-b364-90a7b22774a2&pf_rd_r=S9CYX3R5B5WE0W6VV7T1&pd_rd_r=2069be31-76ed-402b-bc2c-93ff33cd0316&pd_rd_wg=fZqIr&pd_rd_i=B076B3Q8JR&psc=1)
+
+
+
+### Total Cost Calcular
+```
+$processor = 56611
+$cooling = 8190
+$motherboard = 28800
+$ram = 13849*4
+$gpu = 22300
+$ssd = 10199*3
+$smps = 19999
+$cabinet = 11099
+$monitor = 18850
+$keyboard = 1095
+$stand = 2999
+
+"Total => $($processor+$cooling+$motherboard+$ram+$gpu+$ssd+$smps+$cabinet+$monitor+$keyboar+$stand)" `
+            | Write-Host -ForegroundColor Green
+```
