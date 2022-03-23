@@ -42,7 +42,7 @@
 
 
 
-### Total Cost Calcular
+### Total Cost Calculator
 ```
 $processor = 56611
 $cooling = 8190
