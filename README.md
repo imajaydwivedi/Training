@@ -24,7 +24,7 @@
    + [CORSAIR MP600 CORE 4TB M.2 NVME PCIE X4 GEN4 SSD - 4.9 Gbps @ 55,000](https://www.vishalperipherals.in/corsair-mp600-core-4tb-m-2-nvme-pcie-x4-gen4-ssd)
    + [Sabrent 4TB Rocket 4 PLUS - 7.1 Gbps (SB-RKT4P-4TB) @ 75,500](https://www.primeabgb.com/online-price-reviews-india/sabrent-4tb-rocket-4-plus-nvme-4-0-gen4-pcie-m-2-internal-ssd-sb-rkt4p-4tb/)
 7. SSD (M.2) - **2 TB - Gen 4**
-   + [CRUCIAL P2 2TB PCIE M.2 2280 SSD @ 15,000](https://www.vishalperipherals.in/crucial-p2-1tb-pcie-m-22280ss-ssd?manufacturer_id=42)
+   + [ADATA XPG GAMMIX S50 Lite - 3900/3200 mbps @ 10,199](https://www.shwetacomputer.com/shop/adata-xpg-gammix-s50-lite-pcie-gen4x4-m-2-2280-solid-state-drive-agammixs50l-1t-c/)
 8. Power Supply (SMPS) - **Cooler Master MWE 1250 V2 80 Plus Gold SMPS**
    + [mdcomputers.in @ 19,999](https://mdcomputers.in/cooler-master-mwe-v2-1250-watt-80-plus-gold-mpe-c501-afcag-in.html)
    + [vedantcomputers @ 19,950](https://www.vedantcomputers.com/index.php?route=product/product&product_id=4620)
