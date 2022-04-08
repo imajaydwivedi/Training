@@ -16,18 +16,19 @@
    + [HyperX Fury 32GB DDR4 3200MHz Black CL16 @ 12,999](https://mdcomputers.in/hyperx-fury-32gb-ddr4-3200mhz-black-hx432c16fb3-32.html)
    + [KINGSTON HYPERX 3200MHZ 32GB CL16 @ 11,250](https://www.vishalperipherals.in/gaming-devices/hyperx-fury-hx432c16fb3-32-32gb-ddr4-3200mhz)
    + [CORSAIR VENGEANCE LPX 64GB (32GBX2) DDR4 DRAM 3600MHZ C18 @ 13,849](https://www.primeabgb.com/online-price-reviews-india/corsair-vengeance-lpx-64gb-2-x-32gb-ddr4-dram-3600mhz-c18-memory-kit-black-cmk64gx4m2d3600c18/)
+   + [Corsair Memory Vengeance LPX DT 64GB (2X32GB)  3600 MHz @ 13,849](https://nationalpc.in/desktop-memory/corsair-memory-vengeance-lpx-dt-64gb-2x32gb-3600-mhz?gclid=CjwKCAjwur-SBhB6EiwA5sKtjk4du-ti-rYWpa43PUvUPTVciI1dA5H0MvU26yjZszuBibm-qgcWwxoCDDwQAvD_BwE)
 5. GPU (Graphics Card) - **[Zotac GTX 1650 OC 4GB GDDR6](https://www.zotac.com/us/product/graphics_card/zotac-gaming-geforce-gtx-1650-oc-gddr6)**
-   + [mdcomputers.in @ 22,369](https://mdcomputers.in/zotac-gtx-1650-oc-4gb-gddr6-zt-t16520f-10l.html)
-   + [vedantcomputers.com @ 22,300](https://www.vedantcomputers.com/zotac-gaming-geforce-gtx-1650-oc-4gb-gddr6)
+   + [mdcomputers.in @ 22,290](https://mdcomputers.in/zotac-gtx-1650-oc-4gb-gddr6-zt-t16520f-10l.html)
+   + [vedantcomputers.com @ 22,250](https://www.vedantcomputers.com/zotac-gaming-geforce-gtx-1650-oc-4gb-gddr6)
 6. SSD (M.2) - **4 TB - Gen 4**
    + [Addlink S92 4TB M.2 NVMe Gen4 Internal SSD - 4.9 Gbps (AD4TBS92M2P) @ 55,700](https://mdcomputers.in/addlink-s92-4tb-m.2-nvme-gen4-ad4tbs92m2p.html)
    + [CORSAIR MP600 CORE 4TB M.2 NVME PCIE X4 GEN4 SSD - 4.9 Gbps @ 55,000](https://www.vishalperipherals.in/corsair-mp600-core-4tb-m-2-nvme-pcie-x4-gen4-ssd)
    + [Sabrent 4TB Rocket 4 PLUS - 7.1 Gbps (SB-RKT4P-4TB) @ 75,500](https://www.primeabgb.com/online-price-reviews-india/sabrent-4tb-rocket-4-plus-nvme-4-0-gen4-pcie-m-2-internal-ssd-sb-rkt4p-4tb/)
 7. SSD (M.2) - **2 TB - Gen 4**
-   + [ADATA XPG GAMMIX S50 Lite - 3900/3200 mbps @ 10,199](https://www.shwetacomputer.com/shop/adata-xpg-gammix-s50-lite-pcie-gen4x4-m-2-2280-solid-state-drive-agammixs50l-1t-c/)
+   + [ADATA XPG GAMMIX S50 Lite - 3900/3200 mbps @ 10,099](https://www.shwetacomputer.com/shop/adata-xpg-gammix-s50-lite-pcie-gen4x4-m-2-2280-solid-state-drive-agammixs50l-1t-c/)
 8. Power Supply (SMPS) - **Cooler Master MWE 1250 V2 80 Plus Gold SMPS**
-   + [mdcomputers.in @ 19,999](https://mdcomputers.in/cooler-master-mwe-v2-1250-watt-80-plus-gold-mpe-c501-afcag-in.html)
-   + [vedantcomputers @ 19,950](https://www.vedantcomputers.com/index.php?route=product/product&product_id=4620)
+   + [mdcomputers.in @ 19,599](https://mdcomputers.in/cooler-master-mwe-v2-1250-watt-80-plus-gold-mpe-c501-afcag-in.html)
+   + [vedantcomputers @ 19,450](https://www.vedantcomputers.com/index.php?route=product/product&product_id=4620)
 9. Cabinet - **Full Tower - 3 Included Fans**
     + [Phanteks ENTHOO PRO Black @ 11,099](https://mdcomputers.in/phanteks-enthoo-pro-black-ph-es614ptg-bk.html)
 10. Monitor - **[Benq GW2780T (27'') - 1080p - IPS Eye Care - LED - Ultra-Slim Bezel - 60 Hz - Height Adjustable - Built-in Speakers](https://www.benq.com/en-in/monitor/stylish/gw2780t/specifications.html)**
